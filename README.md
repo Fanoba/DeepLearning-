@@ -37,5 +37,4 @@ Durante la exploración se detectaron:
 Luego, para el entrenamiento final:
 
 - Se seleccionaron **10 artistas** más representados.
-- Las imágenes se organizaron así:
 
