@@ -1,0 +1,21 @@
+# Quitar entornos virtuales
+tf_gpu/
+venv/
+.env/
+
+# Archivos Python basura
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Sistemas
+.DS_Store
+Thumbs.db
+
+# Configuración IDE
+.vscode/
+.idea/
