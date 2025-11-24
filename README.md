@@ -38,3 +38,5 @@ Luego, para el entrenamiento final:
 
 - Se seleccionaron **10 artistas** más representados.
 
+Referencias 
+•	HugGAN Community. (2025, June 6). wikiart. Huggingface.co. https://huggingface.co/datasets/huggan/wikiart?
